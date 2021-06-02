@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0ca4f0b.chunk.css",
+    "main.js": "/static/js/main.3db5374a.chunk.js",
+    "main.js.map": "/static/js/main.3db5374a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0c3ad835.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0c3ad835.js.map",
+    "static/js/2.1593ae3a.chunk.js": "/static/js/2.1593ae3a.chunk.js",
+    "static/js/2.1593ae3a.chunk.js.map": "/static/js/2.1593ae3a.chunk.js.map",
+    "static/js/3.ef0cebfb.chunk.js": "/static/js/3.ef0cebfb.chunk.js",
+    "static/js/3.ef0cebfb.chunk.js.map": "/static/js/3.ef0cebfb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e0ca4f0b.chunk.css.map": "/static/css/main.e0ca4f0b.chunk.css.map",
+    "static/js/2.1593ae3a.chunk.js.LICENSE.txt": "/static/js/2.1593ae3a.chunk.js.LICENSE.txt",
+    "static/media/event-chairs.c541f3da.png": "/static/media/event-chairs.c541f3da.png",
+    "static/media/happy-ladies.5e543b1c.png": "/static/media/happy-ladies.5e543b1c.png",
+    "static/media/karioke-1.a923cf1f.png": "/static/media/karioke-1.a923cf1f.png",
+    "static/media/karioke-2.b7526a29.png": "/static/media/karioke-2.b7526a29.png",
+    "static/media/karioke-3.fb1d7ab6.png": "/static/media/karioke-3.fb1d7ab6.png",
+    "static/media/karioke-5.f1e54a82.png": "/static/media/karioke-5.f1e54a82.png",
+    "static/media/karioke.f3ab8149.png": "/static/media/karioke.f3ab8149.png",
+    "static/media/karoke-4.383b2d5c.png": "/static/media/karoke-4.383b2d5c.png",
+    "static/media/lady-with-cup.5a2f73ee.png": "/static/media/lady-with-cup.5a2f73ee.png",
+    "static/media/lady-with-glasses.29b0fc92.png": "/static/media/lady-with-glasses.29b0fc92.png",
+    "static/media/people.e77e906a.png": "/static/media/people.e77e906a.png",
+    "static/media/sky-scrapper.02b22097.png": "/static/media/sky-scrapper.02b22097.png",
+    "static/media/smiling-lady-balloon.2e743c35.png": "/static/media/smiling-lady-balloon.2e743c35.png",
+    "static/media/speech-lady.eeb1d620.png": "/static/media/speech-lady.eeb1d620.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c3ad835.js",
+    "static/js/2.1593ae3a.chunk.js",
+    "static/css/main.e0ca4f0b.chunk.css",
+    "static/js/main.3db5374a.chunk.js"
+  ]
+}
